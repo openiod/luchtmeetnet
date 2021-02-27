@@ -1,0 +1,22 @@
+{
+  "name": "luchtmeetnet",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/openiod/luchtmeetnet.git"
+  },
+  "author": "André van der Wiel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/openiod/luchtmeetnet/issues"
+  },
+  "homepage": "https://github.com/openiod/luchtmeetnet#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
