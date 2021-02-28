@@ -1,0 +1,5 @@
+[
+ {"sensorId":"SCRP_test1","externalId":"SCRP_test1","active":"TRUE","lat":51.4000,"lon":3.9000,"sensorType":"dylos","fiwareService":"","fiwareServicePath":"/dylos","ops":"scapeler_dylos_raw0,scapeler_dylos_raw1"}
+,{"sensorId":"SCRP_test2","externalId":"SCRP_test2","active":"FALSE","lat":52.5000,"lon":4.9000,"sensorType":"dylos","fiwareService":"","fiwareServicePath":"/dylos","ops":"scapeler_dylos_raw0,scapeler_dylos_raw1"}
+,{"sensorId":"SCRP_test2","externalId":"SCRP_test2*PMSA003","active":"TRUE","lat":52.5000,"lon":4.9000,"sensorType":"pmsa003","fiwareService":"aprisensor_in","fiwareServicePath":"/pmsa003","ops":"pm25,pm10"}
+]
