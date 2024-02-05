@@ -23,8 +23,7 @@ let PUBLIC_ORIGIN = "http://localhost:5174"
 let PUBLIC_APRISENSOR_URL_PROD = "http://localhost:3000"
 let PUBLIC_APRISENSOR_URL_TESTxx = "http://localhost:5174"
 let PUBLIC_APRISENSOR_URL_TESTx = "https://aprisensor-api-v1.openiod.org:3100"
-let PUBLIC_APRISENSOR_URL_TESTxxx = "https://aprisensor-api-v1.openiod.org"
-let PUBLIC_APRISENSOR_URL_TEST = "http://localhost:5173"
+let PUBLIC_APRISENSOR_URL_TEST = "https://aprisensor-api-v1.openiod.org"
 let ORIGIN = "https://dataportaal.openiod.org:3000"
 
 
