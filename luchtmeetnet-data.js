@@ -355,7 +355,7 @@ var reqFile = function (url, fileName, unzip, desc, sensorId) {
 			dataDB.observation.o3 = _measurement.O3;
 		}
 		if (_measurement.C6H6) {
-			dataDB.observation.c6h6 = 'c6h6:' + _measurement.C6H6;
+			dataDB.observation.c6h6 = _measurement.C6H6;
 		}
 		if (_measurement.C7H8) {
 			dataDB.observation.c7h8 = _measurement.C7H8;
